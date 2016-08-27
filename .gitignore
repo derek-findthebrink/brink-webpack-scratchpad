@@ -1,0 +1,10 @@
+build
+node_modules
+.env
+.sass-cache
+.directory
+npm-debug.log
+lib
+
+webpack-assets.json
+webpack-stats.json
