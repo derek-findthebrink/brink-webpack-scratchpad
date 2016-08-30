@@ -5,3 +5,5 @@
 - [x] remove unnecessary components
 - [x] ensure is running successfully in development
 - [x] commit
+- [ ] add production webpack config
+- [ ] ensure jade template accesses css in production

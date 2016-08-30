@@ -1,3 +1,5 @@
+/* globals __dirname:true, process:true */
+
 require("babel-polyfill")
 var nodepath = require("path")
 
